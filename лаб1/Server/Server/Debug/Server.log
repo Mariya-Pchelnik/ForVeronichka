@@ -1,0 +1,16 @@
+﻿Build started 12.03.2021 19:54:45.
+     1>Project "D:\4 сем\ОСТ\лаб1\Server\Server\Server.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\..\БД\Лаб1\Source1.cpp"
+         Source1.cpp
+     1>d:\4 сем\бд\лаб1\source1.cpp(27): warning C4101: 'Res' : unreferenced local variable
+     1>d:\4 сем\бд\лаб1\source1.cpp(27): warning C4101: 'letter' : unreferenced local variable
+     1>d:\4 сем\бд\лаб1\source1.cpp(27): warning C4101: 'buf' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\4 сем\ОСТ\лаб1\Server\Debug\Server.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\4 сем\ОСТ\лаб1\Server\Debug\Server.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\4 сем\ОСТ\лаб1\Server\Debug\Server.lib" /MACHINE:X86 Debug\Source1.obj
+         Server.vcxproj -> D:\4 сем\ОСТ\лаб1\Server\Debug\Server.exe
+     1>Done Building Project "D:\4 сем\ОСТ\лаб1\Server\Server\Server.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.26
